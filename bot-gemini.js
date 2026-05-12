@@ -8,11 +8,11 @@ app.use(express.json());
 // =============================================
 const CONFIG = {
   VERIFY_TOKEN: "subscloud_final_v4",
-  WHATSAPP_TOKEN: "YOUR_WHATSAPP_API_TOKEN",  // Meta se
-  PHONE_NUMBER_ID: "YOUR_PHONE_NUMBER_ID",     // Meta se
-  GEMINI_API_KEY: "YOUR_GEMINI_API_KEY",       // aistudio.google.com se (FREE)
-  OWNER_NUMBER: "923000000000",                // Aapka number (92 + number)
-  BUSINESS_NAME: "SubsCloud",
+  WHATSAPP_TOKEN: "EAAVY8ms3ZCdoBRWDRpknOBjmamKQyMlX2VQ4GtZAvrWt7q2VwWvMllvGTaK06FyH9m2RsYxCljGycdZBoSCDmtyVqBR08GaaGeIbwWrWk3ZBmYsxoj0xHobfjqZCpXoxD6yo8VORZBW2j4vx3M540jx0zZB6Tij7M301aNEfhJyQedjsvoJRl6DD35OhAvZCtgTT3AZDZD",  // Meta se
+  PHONE_NUMBER_ID: "1126092713916770",     // Meta se
+  GEMINI_API_KEY: "AIzaSyAqLosLCrApzZ5ZbtRskbe4KYGowdKte4w",       // aistudio.google.com se (FREE)
+  OWNER_NUMBER: "923116014450",                // Aapka number (92 + number)
+  BUSINESS_NAME: "Macrotoolz",
 };
 
 // Gemini API URL
